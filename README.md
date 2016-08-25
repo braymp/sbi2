@@ -1,6 +1,6 @@
 <img src="http://i.imgur.com/WMFG0fo.png">
 
-**SBI2 HCS/HCA Educational Workshop**
+# SBI2 HCS/HCA Educational Workshop
 
 **Advanced/Elective HCS/HCA Course Topics: Advanced Tools for Data Analysis**
 
@@ -20,7 +20,7 @@ Monday September 12, 2016
 Joseph B. Martin Conference Center, Harvard Medical School, Boston, MA
 Classrooms 214, 216, & 217
 
-# Pre-workshop instructions
+## Pre-workshop instructions
 
 - Download and install CellProfiler 2.2.0 from [cellprofiler.org/releases](http://cellprofiler.org/releases/) for your OS
 - Download the repository by clicking the "Clone or download" button <img align="center"  src="https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png" alt="Clone or download button"> and selecting the "Download ZIP" tab.
