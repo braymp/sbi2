@@ -1,7 +1,9 @@
 <img src="http://i.imgur.com/WMFG0fo.png">
 
-**SBI2 HCS/HCA Educational Workshop
-Advanced/Elective HCS/HCA Course Topics: Advanced Tools for Data Analysis**
+**SBI2 HCS/HCA Educational Workshop**
+
+**Advanced/Elective HCS/HCA Course Topics: Advanced Tools for Data Analysis**
+
 SBI2 High Content 2016, 3rd Annual Conference
 
 Come learn how to do image analysis with **CellProfiler**! CellProfiler is a free open-source software designed to enable biologists without training in computer vision or programming to quantitatively measure phenotypes from thousands of images automatically. 
