@@ -25,7 +25,7 @@ Classrooms 214, 216, & 217
 - Download and install CellProfiler 2.2.0 from [cellprofiler.org/releases](http://cellprofiler.org/releases/) for your OS
 - Download the repository by clicking the "Clone or download" button <img align="center"  src="https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png" alt="Clone or download button"> and selecting the "Download ZIP" tab.
 - Extract the files in the ZIP file to your desktop.
-- 
+
 ## Getting started
 
 The instructions below describe how to set up CellProfiler for the example pipeline and input images we'll be using. Follow these directions if you want to speed ahead to the (more-interesting) Analysis portion, or if you get lost at the Input portion of the session at the beginning.
