@@ -25,6 +25,7 @@ Classrooms 214, 216, & 217
 - Download and install CellProfiler 2.2.0 from [cellprofiler.org/releases](http://cellprofiler.org/releases/) for your OS
 - Download the repository by clicking the "Clone or download" button <img align="center"  src="https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png" alt="Clone or download button"> and selecting the "Download ZIP" tab.
 - Extract the files in the ZIP file to your desktop.
+- Open the workshop exercise PDF in the viewer of your choice. We won't actually be using it much (due to time contraints) but it may be helpful as a reference or note-taking.
 
 ## Getting started
 
