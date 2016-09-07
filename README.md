@@ -8,17 +8,19 @@ SBI2 High Content 2016, 3rd Annual Conference
 
 Come learn how to do image analysis with **CellProfiler**! CellProfiler is a free open-source software designed to enable biologists without training in computer vision or programming to quantitatively measure phenotypes from thousands of images automatically. 
 
-This advanced course is designed for scientists who wish to get started using CellProfiler to identify objects and measure features on their own images. Familiarity with basic principles of image analysis is assumed. Attending the Image and Data Analysis Introdutory Course is recommended.
+This advanced course is designed for scientists who wish to get started using CellProfiler to identify objects and measure features on their own images. Familiarity with basic principles of image analysis is assumed. 
 
 **WHEN**
 
 Monday September 12, 2016
-9:00 AM - 12:00 PM
+11:30 AM - 12:30 PM
+
+**Attending the Image and Data Analysis Introductory Course beforehand (9:00 AM - 10:00 AM, Rm 217) is highly recommended.**
 
 **WHERE**
 
 Joseph B. Martin Conference Center, Harvard Medical School, Boston, MA
-Classrooms 214, 216, & 217
+Classroom 214
 
 ## Pre-workshop instructions
 
