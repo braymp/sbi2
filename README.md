@@ -42,7 +42,7 @@ The instructions below describe how to set up CellProfiler for the example pipel
   - From your file browser, drag-and-drop the `images` folder (contained in the "sbi2-master" folder) into the File List panel.
 - Select the **Metdata** module (second module on left-hand side of CellProfiler). 
   - Select "Yes" to enable it.
-  - For the "Metadata extraction method" setting, change "Extact from image file headers" in the drop-down to "Extract from file/folder names".
+  - For the "Metadata extraction method" setting, change `Extact from image file headers` in the drop-down to `Extract from file/folder names`.
   - For the "Regular expression" setting, clear the text in the edit box, and then cut/paste the following regular expression into it:
 `^(?P<Plate>.*)_(?P<Well>[A-P][0-9]{2})f(?P<Site>[0-9]*)d(?P<ChannelNumber>[0-9])`
   - Click the "Update" button below the horizontal sash to display the extracted metadata.
