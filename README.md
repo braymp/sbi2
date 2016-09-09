@@ -52,7 +52,7 @@ The instructions below describe how to set up CellProfiler for the example pipel
   - For *OrigRed*, change to  `[File] [Does] [Contain] "d2"`
 - Click the "Update" button below the horizontal sash to display the matched image channels.
 - Click the first **Crop** module.
-  - For "Left and right rectangle positions", change to '250'and 'end'
-  - For "Top and bottom rectangle positions", change to '1' and '250'
+  - For "Left and right rectangle positions", change to `250` and `end`
+  - For "Top and bottom rectangle positions", change to `1` and `250`
 
 You will now be ready to start adjusting the remaining Analysis modules to suit these example images.
