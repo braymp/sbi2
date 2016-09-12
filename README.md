@@ -24,6 +24,7 @@ Classroom 214
 
 ## Pre-workshop instructions
 
+- Sign on to conference guest wireless (SSID: HMS Public). Open browser to wireless greeting page, click "Accept" button at bottom.
 - Download and install CellProfiler 2.2.0 from [cellprofiler.org/releases](http://cellprofiler.org/releases/) for your OS
 - Download the repository by clicking the "Clone or download" button <img align="center"  src="https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png" alt="Clone or download button"> and selecting the "Download ZIP" tab.
 - Extract the files in the ZIP file to your desktop. The contents should be a single folder named "sbi2-master".
