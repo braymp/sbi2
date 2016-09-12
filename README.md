@@ -28,7 +28,7 @@ Classroom 214
 - Download and install CellProfiler 2.2.0 from [cellprofiler.org/releases](http://cellprofiler.org/releases/) for your OS
 - Download an example set and images as a ZIP file from this [link](http://d1zymp9ayga15t.cloudfront.net/content/Examplezips/ExampleFlyImages.zip)
   - Extract the files in the ZIP file to your desktop. The contents should be a single folder named "ExampleFlyImages".
-- Download the repository by clicking the green "Clone or download" button <img src="https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png"> at the top of the page and selecting the "Download ZIP" tab.
+- Download the repository by clicking the green "Clone or download" button <img align="center" src="https://camo.githubusercontent.com/c6440fe65a8d85b873da9340ffbdbc3a830cee6f/687474703a2f2f7075752e73682f706a73716e2f333166653236616639342e706e67"> at the top of the page and selecting the "Download ZIP" tab.
   - Extract the files in the ZIP file to your desktop. The contents should be a single folder named "sbi2-master".
 - Open the workshop exercise PDF in the viewer of your choice. We won't actually be using it much (due to time contraints) but it may be helpful as a reference or note-taking.
 
