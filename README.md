@@ -37,7 +37,7 @@ Classroom 214
 The instructions below describe how to set up CellProfiler for the example pipeline and input images we'll be using. Follow these directions if you want to speed ahead to the (more-interesting) Analysis portion, or if you get lost at the Input portion of the session at the beginning.
 - Open CellProfiler. 
 - Go to the "ExampleFlyImages" folder you extracted from the ZIP file.
-  - Drag/drop the "ExampleFlyURL.cppipe" file into the pipeline panel in CellProfiler (the panel labeled "Analysis modules" on the left-hand-side)
+  - From your file browser, drag-and-drop the `ExampleFlyURL.cppipe` file into the pipeline panel in CellProfiler (the panel labeled "Analysis modules" on the left-hand-side)
   - A message prompt will appear after loading. Click "OK" to dismiss it.
 - Select the **Images** module (top module on left-hand side of CellProfiler)
   - From your file browser, drag-and-drop the `images` folder (contained in the "sbi2-master" folder) into the File List panel.
