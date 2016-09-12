@@ -45,7 +45,7 @@ The instructions below describe how to set up CellProfiler for the example pipel
   - For *OrigBlue*, change to `[File] [Does] [Contain] "d0"`
   - For *OrigGreen*, change  `[File] [Does] [Contain] "d1"`
   - For *OrigRed*, change to  `[File] [Does] [Contain] "d2"`
-- Click the "Update" button below the horizontal sash to display the matched image channels.
+  - Click the "Update" button below the horizontal sash to display the matched image channels.
 - Click the first **Crop** module.
   - For "Left and right rectangle positions", change to `250` and `end`
   - For "Top and bottom rectangle positions", change to `1` and `250`
